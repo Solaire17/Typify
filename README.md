@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+Typify allows users to type race their favourite lyrics to songs while the song is playing in the background.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+User's are given a score based on the time they took, allowing users to compete with others. 
 
-## Available Scripts
+The score is calculated by Score: Song Duration/Time User took to complete Song
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/57889353/168697733-27569db7-d85b-4d87-b09b-5d93b76ad1ab.png)
+![image](https://user-images.githubusercontent.com/57889353/168698712-3dd80048-f707-4eb8-8b3f-50ca00af0391.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+User Guide:
+  1. Grab a Spotify Song URL (Example: "https://open.spotify.com/track/4TwVtW8hS5LyLoDtJGpUOg?si=31d7bf256a9547f4") and press enter
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/57889353/168697994-611b9ae4-4677-43d0-b23f-492dc53368ff.png">
 
-### `npm test`
+  2. Next press the "Change to Play Page" button
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/57889353/168698175-0b94952b-9cde-4bae-85e0-24ab56339f0f.png)
 
-### `npm run build`
+  3. After that you're now able to type the lyrics
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/57889353/168698278-958a91cb-c988-4e1e-8ff6-48a286f0a222.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  **If the lyric is right it will appear as green if its wrong it will appear as red**
+ 
+ ![image](https://user-images.githubusercontent.com/57889353/168698330-cd73319b-7d9b-4430-bdf3-52f7b8981381.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  4. Press enter when all the lyrics are green to recieve your score
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/57889353/168698394-777bb494-b87d-4620-840e-146bddb93185.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Darkmode/Lightmode: The button will switch from a lighter blue to a darker navy
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**If song does not have lyrics it will**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://user-images.githubusercontent.com/57889353/168698583-799d5521-3596-47ce-b67b-67eb6e1fe6c7.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
