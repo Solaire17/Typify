@@ -1,3 +1,5 @@
+https://outlist.netlify.app/
+
 Typify allows users to type race their favourite lyrics to songs while the song is playing in the background.
 
 User's are given a score based on the time they took, allowing users to compete with others. 
