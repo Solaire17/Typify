@@ -1,4 +1,4 @@
-https://outlist.netlify.app/
+https://typify-fdd5b.web.app/
 
 Typify allows users to type race their favourite lyrics to songs while the song is playing in the background.
 
