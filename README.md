@@ -33,7 +33,7 @@ User Guide:
 
 Darkmode/Lightmode: The button will switch from a lighter blue to a darker navy
 
-**If song does not have lyrics it will**
+**If a song does not have lyrics it will**
 
 ![image](https://user-images.githubusercontent.com/57889353/168698583-799d5521-3596-47ce-b67b-67eb6e1fe6c7.png)
 
