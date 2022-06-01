@@ -96,7 +96,6 @@ export default function App() {
         });
     }
   }, [track.name && track.artist]);
-  console.log(useColorMode)
 
   return (
     <Box
