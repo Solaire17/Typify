@@ -1,4 +1,4 @@
-https://typify-fdd5b.web.app/
+https://typify-fdd5b.web.app/ (Lyrics will no longer appear due to LyricsAPI becoming obsolete)
 
 Typify allows users to type race their favourite lyrics to songs while the song is playing in the background.
 
